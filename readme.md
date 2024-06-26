@@ -2,6 +2,8 @@
 
 Simple helper scripts for managing python projects.
 
+It was only tested in a ubuntu-based linux disto.
+
 ## setupvenv
 
 Creates a virtual enviroment at the current folder as ".venv", then install all dependencies from "requirements.txt" if there is such file. It has the following options:
@@ -34,4 +36,5 @@ alias pipsave="~/scripts/pipsave.sh"
 ```
 - save and exit with ctrl+x
 - <code>source ~/.bashrc</code>
+
 

@@ -22,7 +22,7 @@ Uses pip to install dependencies, but also add them to the requirements.txt (cre
 
 ## Installer Script
 
-git clone https://github.com/titoco3000/python-helper-scripts.git && cd python-helper-scripts && ./install.sh && cd .. && rm -rf python-helper-scripts/
+  git clone https://github.com/titoco3000/python-helper-scripts.git && cd python-helper-scripts && ./install.sh && cd .. && rm -rf python-helper-scripts/
 
 ## Manual
 
